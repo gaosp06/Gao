@@ -8,8 +8,14 @@ body{
     width:610px;  
 }
 
+.icon{
+    color:white;
+    margin-left:265px;
+}
+
 .Welcome{
     color: white;
+    margin-left:150px;
 }
 
 
@@ -39,12 +45,12 @@ body{
 
 .forgot-1{
     color:white;
-    flex:1;
+    
 }
 
 .Get-Started{
     color:white;
-    flex:2;
+ 
 }
 
 
