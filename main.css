@@ -5,15 +5,15 @@ body{
 }
 
 .my-container {
-    border: 1px solid green;
+    border: 1px
 }
 
 .my-row {
-    border: 3px solid red ;
+    border: 3px
 
 }
 
 .my-col {
-    border: 3px solid blue ;
+    border: 3px
     height: 300px;
 }
