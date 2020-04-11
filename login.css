@@ -1,0 +1,44 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.my-container {
+    margin-top: 175px;
+    color: white;
+    
+   
+    
+}
+
+.my-container1{
+    border:1px solid;
+    background-color: white;
+    height:285px;
+    width: 610px;
+    
+
+}
+
+.login {
+    margin-top: 55px;
+
+}
+
+
+.my-container2{
+    display: flex;
+    width: 650px;
+  
+}
+
+.forgot-1{
+    color:white;
+    flex:1;
+}
+
+.Get-Started{
+    color:white;
+    flex:2;
+}
+
+

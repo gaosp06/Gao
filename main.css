@@ -1,0 +1,19 @@
+body{
+
+    margin: 30px;
+
+}
+
+.my-container {
+    border: 1px solid green;
+}
+
+.my-row {
+    border: 3px solid red ;
+
+}
+
+.my-col {
+    border: 3px solid blue ;
+    height: 300px;
+}
